@@ -1,0 +1,9 @@
+output.txt
+Random.csv
+Random2.csv
+Run.py
+utils.py
+Week2.py
+__init__.py
+__pycache__
+#min fil
