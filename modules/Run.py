@@ -3,6 +3,8 @@ import argparse
 from Week2 import read_csv, write_lines_to_file
 from utils import get_file_names, get_all_file_names, print_line_one, print_emails, write_headlines
 
+
+print("hej")
 parser = argparse.ArgumentParser(description='A program that write and read from a csv file')
 parser.add_argument('-f', dest="file", required=True, help='csv file')
 parser.add_argument("-o", dest="outfile", default=None, help='The name of the file to store the url in')

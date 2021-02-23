@@ -1,0 +1,5 @@
+Kim,Male,Image_url,3,Math,Nicolaj,7,20,12,physics,Tess,5,10,7,Gym,Arne,7,30,0
+Bo,Male,Image_url,3,Gym,Tess,7,40,4,Math,Tess,4,10,7,Chemestry,Tess,7,30,-3
+Bo,Male,Image_url,3,Chemestry,kurt,1,10,10,Gym,Lise,1,40,0,physics,kurt,1,10,2
+Lars,Male,Image_url,3,Danglish,Tess,2,30,4,English,Arne,1,30,4,Danglish,kurt,7,10,-3
+Henrik,Male,Image_url,3,physics,Lise,9,40,12,Danglish,Lise,1,40,4,Math,Arne,7,10,-3
